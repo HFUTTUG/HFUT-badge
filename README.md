@@ -1,4 +1,7 @@
 ### Hefei University of Technology (HFUT) School badge/logo
+
+[中文文档](https://github.com/HFUTTUG/HFUT-logo/blob/main/README_zh-ch.md)
+
 *Please read* **"合肥工业大学视觉形象识别系统使用管理办法（2020年8月修订稿）"** *before use.*
 
 According to `Foundation_file.pdf`, it will be divided into the following patterns, which is convenient for everyone to use reasonably.
