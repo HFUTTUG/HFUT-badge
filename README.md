@@ -1,4 +1,4 @@
-### Hefei University of Technology (HFUT) School badge/logo
+### Hefei University of Technology (HFUT) badge/logo
 
 [中文文档](https://github.com/HFUTTUG/HFUT-logo/blob/main/README_zh-ch.md)
 
