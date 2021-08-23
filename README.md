@@ -4,7 +4,7 @@
 
 *Please read* **"[《HFUT视觉形象识别系统使用管理办法（2020年8月修订稿）》](http://www.hfut.edu.cn/xxgk1/gdbs.htm)"** *before use.*
 
-HFUT has released a new badge on the occasion of the 75th anniversary of HFUT in 2020. Considering that the old badge is still in use in somewhere, the vector graphs are provided here. Please refer to the `v2020.08//` and `v2014.08` branchs for details.
+HFUT has released a new badge on the occasion of the 75th anniversary of HFUT in 2020. Considering that the old badge is still in use in somewhere, the vector graphs are provided here. Please refer to the `v2020.08` and `v2014.08` branchs for details.
 
 * HFUT_badge
 
